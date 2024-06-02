@@ -1,3 +1,7 @@
 [workspace]
 
-members = ["exercise/a_variables/variables", "exercise/b_functions"]
+members = [
+    "exercise/a_variables/variables",
+    "exercise/b_functions",
+    "exercise/c_simple_types",
+]
